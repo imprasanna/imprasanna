@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript
-- 📫 You can connect with me or reach to me on: [facebook](https://www.facebook.com/prasanna.acharya.775/) [gmail](mailto:prasannaacharya2073@gmail.com)
+- 📫 You can get connected with me or reach to me on: [facebook](https://www.facebook.com/prasanna.acharya.775/) [gmail](mailto:prasannaacharya2073@gmail.com)
 
 <!---
 imprasanna/imprasanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
