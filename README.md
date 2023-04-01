@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imprasanna" alt="imprasanna" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend development**
+- 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **a Javascript project**
+- 👯 I’m looking to collaborate on **a React project**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **Frontend web technologies**
 
 - 📫 How to reach me **prasannaacharya2073@gmail.com**
 
-- ⚡ Fun fact **I am a programmer who is allergic to caffeine.☕☕**
+- ⚡ Fun fact **Don't expect any fun fact from a serious jerk like me!😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
