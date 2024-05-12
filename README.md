@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=sans-serif&size=32&font-color=black&duration=2000&pause=150&multiline=false&width=700&height=50&lines=Prasanna+Acharya;Web+developer+%7C+Passionate+learner" alt="Typing SVG" />
+  Hi there! I am Prasanna.
+<!--   <img align="center" src="https://readme-typing-svg.demolab.com?font=sans-serif&size=32&font-color=black&duration=2000&pause=150&multiline=false&width=700&height=50&lines=Prasanna+Acharya;Web+developer+%7C+Passionate+learner" alt="Typing SVG" /> -->
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imprasanna&label=Profile%20views&color=0e75b6&style=flat" alt="imprasanna" /> </p>
@@ -75,3 +76,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imprasanna&" alt="imprasanna" /></p>
+
+<hr/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imprasanna&show_icons=true&locale=en&layout=compact" alt="imprasanna" /></p>
