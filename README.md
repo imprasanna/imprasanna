@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Frontend web technologies**
 
-- 📫 How to reach me **prasannaacharya2073@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
