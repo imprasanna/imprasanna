@@ -7,15 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imprasanna" alt="imprasanna" /></a> </p>
 
-- 🔭 I’m currently working on **Backend development**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 👯 I’m looking to collaborate on **a React project**
-
-- 💬 Ask me about **Frontend web technologies**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank">
