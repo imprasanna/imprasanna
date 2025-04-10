@@ -43,15 +43,17 @@
 
 If you want to reach me out to share or learn about some cool stuffs together, feel free to ping me.😄
 
-<a href="mailto:ping@aprasanna.com.np">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-   <a href="https://aprasanna.com.np">
-    <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-  </a>   
-  <a href="https://x.com/a_prasanna__">
-    <img align="left" alt="X" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/x.png" />
+<p align="left">
+  <a href="mailto:ping@aprasanna.com.np">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
+
+  <a href="https://x.com/a_prasanna__">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+</p>
+
 </br>
 </br>
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
