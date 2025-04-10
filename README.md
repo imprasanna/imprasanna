@@ -16,7 +16,8 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/4XDjR7Y2GcwAAAAM/eren-freedom.gif">
 
 ### - Learning :
-- 💫 Web Security
+- 🛡️ Web Security
+- ⚙️ Reverse Engineering
 
 ### - Working on :
 - 💻 [Bug Hunting](https://hackerone.com)
@@ -46,10 +47,10 @@ If you want to reach me out to share or learn about some cool stuffs together, f
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
    <a href="https://aprasanna.com.np">
-    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+    <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>   
   <a href="https://x.com/a_prasanna__">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img align="left" alt="X" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/x.png" />
   </a>
 </br>
 </br>
