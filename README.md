@@ -47,8 +47,8 @@ If you want to reach me out to share or learn about some cool stuffs together, f
 </a>
    <a href="https://aprasanna.com.np">
     <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a>
-  </a>    <a href="https://x.com/a_prasanna__">
+  </a>   
+  <a href="https://x.com/a_prasanna__">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
 </br>
