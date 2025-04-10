@@ -7,7 +7,7 @@
  
 <br><br>
 
-![Visitor Count](https://profile-counter.glitch.me/04s1s/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/imprasanna/count.svg)
 <br><br><br>
 # About ME 💬 :
 
@@ -34,9 +34,9 @@
 
 # Stats 📈 :
 
-![Github Stats Profiler](https://github-stats-alpha.vercel.app/api?username=04s1s&cc=000&tc=fff&ic=fff&bc=000)
+![Github Stats Profiler](https://github-stats-alpha.vercel.app/api?username=imprasanna&cc=000&tc=fff&ic=fff&bc=000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04s1s&bg_color=000&border_color=000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imprasanna&bg_color=000&border_color=000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact Me :
 
