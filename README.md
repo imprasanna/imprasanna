@@ -1,9 +1,7 @@
 [![Prasanna Intro SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&duration=3500&pause=300&color=A2E42B&vCenter=true&width=650&height=80&lines=Hey+there%2C+I+am+Prasanna;I+am+a+Security+Enthusiast!;I+break+Logic;I+Contribute+to+a+Safer+Infosec.)](https://git.io/typing-svg)
 
  ---
- <p align="center">
- <img width=400 src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" >
- </p>
+
  
 <br><br>
 
